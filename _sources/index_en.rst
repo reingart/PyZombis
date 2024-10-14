@@ -54,6 +54,7 @@ Contents:
    challenges/Reto03_en.rst
    challenges/Reto04_en.rst
    challenges/Reto05_en.rst
+   challenges/BasicExercises/toctree_en.rst
 
    
 
