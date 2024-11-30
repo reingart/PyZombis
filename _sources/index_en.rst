@@ -34,6 +34,7 @@ Contents:
    lectures/TWP58/toctree_en
    lectures/TWP60/toctree_en
    lectures/TWP65/toctree_en
+   lectures/TWP68/toctree_en
    quiz/Quiz1_en.rst
    quiz/Quiz2_en.rst
    quiz/Quiz3_en.rst
