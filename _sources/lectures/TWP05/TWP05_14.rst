@@ -21,6 +21,16 @@ Prueba de escritorio o simulación
    600
    ====== ====== ========
 
+.. fillintheblank:: tw2
+   :casei:
+
+   Usando "deuda = deuda + compra, inicialmente deuda = 0, compra = 100", complete los espacios en blanco en la tabla.
+
+   El nuevo valor de la deuda para la próxima línea es |blank|
+
+   -   :100: Correcto.
+       :x: Incorrecto. Intente con '100'."
+
 
 No tengas prisa por la prueba de escritorio
 -------------------------------------------

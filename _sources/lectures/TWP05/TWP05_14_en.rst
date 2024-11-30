@@ -19,6 +19,15 @@ Desktop testing or simulation
     600
    ===== ======== ======
 
+.. fillintheblank:: tw1
+   :casei:
+
+   Using "debt = debt + purchase, intially debt = 0, purchase = 100", fill in the blanks in the table.
+
+   The new debt value for the next line is |blank|
+
+   -   :100: Correct.
+       :x: Incorrect. Try '100'.
 
 Don't rush desktop testing
 --------------------------------
