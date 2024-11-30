@@ -49,6 +49,7 @@ Contents:
    quiz/Quiz13_en.rst
    quiz/QuizExtras_en.rst
    quiz/QuizExtras2_en.rst
+   quiz/BasicQuiz_en.rst
    challenges/Reto01_en.rst
    challenges/Reto02_en.rst
    challenges/Reto03_en.rst

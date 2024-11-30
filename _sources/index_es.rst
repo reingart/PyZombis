@@ -49,6 +49,7 @@ Contenidos:
    quiz/Quiz13.rst
    quiz/QuizExtras.rst
    quiz/QuizExtras2.rst
+   quiz/BasicQuiz.rst
    challenges/Reto01.rst
    challenges/Reto02.rst
    challenges/Reto03.rst
