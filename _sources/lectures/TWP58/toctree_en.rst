@@ -1,5 +1,5 @@
 =====================================
-DJ Mix 2 revisión orientada a objetos
+DJ Mix 2 Object-Oriented Review
 =====================================
 
 
