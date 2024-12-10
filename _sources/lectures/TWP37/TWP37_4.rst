@@ -43,6 +43,6 @@ Wow, usemos un tren de datos
 Volviendo al surf ...
 ---------------------
 
-+ Podemos crear una lista ``puntuaciones``.
-+ Para insertar cada nueva puntuación, use ``.append()``
-+ El mejor puesto serán las ``puntuaciones[0]``, ``puntuaciones[1]`` y ``puntuaciones[2]``.
+- Podemos crear una lista ``puntuaciones``.
+- Para insertar cada nueva puntuación, use ``.append()``
+- El mejor puesto serán las ``puntuaciones[0]``, ``puntuaciones[1]`` y ``puntuaciones[2]``.
